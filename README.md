@@ -1,4 +1,4 @@
-# TFG: Interpolación y evaluación de imágenes OCT
+# TFG: Síntesis de imágenes médicas OCT a partir de máscaras de segmentación usando Deep Learning
 
 Este repositorio contiene el código desarrollado para el Trabajo de Fin de
 Grado. El proyecto trabaja con imágenes de tomografía de coherencia óptica
