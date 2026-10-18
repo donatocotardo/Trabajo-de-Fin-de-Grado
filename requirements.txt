@@ -1,0 +1,16 @@
+# Deep learning
+torch
+torchvision
+segmentation-models-pytorch
+
+# Data processing and image handling
+numpy
+Pillow
+scipy
+opencv-python
+albumentations
+
+# Evaluation, visualisation and progress reporting
+matplotlib
+pytorch-ignite
+tqdm
